@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: purple;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 3rem;
+    margin: 5%;
+    color: violet;
+}
+
+div {
+    margin: auto;
+}
+
+.btn {
+    margin: 20px;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 10px solid violet;
+}
+
+.gameOver {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
